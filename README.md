@@ -8,5 +8,5 @@ This repository tracks my hands-on journey to becoming a top-level ML engineer a
 - Exploratory data analysis
 - Visualizations and evaluation metrics
 # About the first two days :
-Day 1: focused on Python basics like variables, conditionals, loops, and functions.
-Day 2: introduced NumPy arrays and basic data operations to build numerical coding fluency for ML
+- Day 1: focused on Python basics like variables, conditionals, loops, and functions.
+- Day 2: introduced NumPy arrays and basic data operations to build numerical coding fluency for ML
